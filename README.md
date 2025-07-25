@@ -42,7 +42,7 @@ Currently working with:
 ## 📌 How to Use
 
 ```bash
-git clone https://github.com/your-username/zero-grad.git
+git clone https://github.com/55HOSTRY55/zero-grad.git
 cd zero-grad/Python_Projects
 python project_name.py
 ```
