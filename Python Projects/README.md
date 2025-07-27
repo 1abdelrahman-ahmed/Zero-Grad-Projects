@@ -7,21 +7,21 @@ This repository contains a collection of Python projects ranging from beginner t
 ## 🗂 Projects List
 
 ### 1. 🎮 Guessing Game
-- **File**: `Project_1/project_1_guessing_game.py`
+- **File**: `Guessing_Game/project_1_guessing_game.py`
 - **Description**: A number guessing game with multiple difficulty levels.
-- **How to Run**: `python Project_1/project_1_guessing_game.py`
+- **How to Run**: `python Guessing_Game/project_1_guessing_game.py`
 
 ### 2. ❌⭕ Tic Tac Toe
-- **File**: `Project_2/project_2_tic_tac_toe.py`
+- **File**: `Tic_Tac_Toe/project_2_tic_tac_toe.py`
 - **Description**: Classic Tic Tac Toe game for two players.
-- **How to Run**: `python Project_2/project_2_tic_tac_toe.py`
+- **How to Run**: `python Tic_Tac_Toe/project_2_tic_tac_toe.py`
 
 ### 3. 🕸️ Wuzzuf Job Scraper
 - **Files**: 
-  - `Project_3/main.py` (Main application)
-  - `Project_3/scrape.py` (Scraping functions)
+  - `Wuzzuf_Job_Scraper/main.py` (Main application)
+  - `Wuzzuf_Job_Scraper/scrape.py` (Scraping functions)
 - **Description**: A simple web scraping utility.
-- **How to Run**: `python Project_3/main.py`
+- **How to Run**: `python Wuzzuf_Job_Scraper/main.py`
 
 ---
 
@@ -44,13 +44,13 @@ This repository contains a collection of Python projects ranging from beginner t
 
 ```
 Python_Projects/
-├── Project_1/
+├── Guessing_Game/
 │   ├── project_1_guessing_game.py
 │   └── README.md
-├── Project_2/
+├── Tic_Tac_Toe/
 │   ├── project_2_tic_tac_toe.py
 │   └── README.md
-└── Project_3/
+└── Wuzzuf_Job_Scraper/
     ├── main.py
     ├── scrape.py
     └── README.md
