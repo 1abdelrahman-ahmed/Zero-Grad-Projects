@@ -8,7 +8,7 @@
 ## 🗂 Current Structure
 
 ```
-zero-grad/
+Zero-Grad-Projects/
 ├── Python_Projects/              # Fundamental Python projects
 │   ├── Guessing_Game/            # [Complete]
 │   ├── Tic_Tac_Toe/              # [Complete] 
@@ -42,8 +42,8 @@ Currently working with:
 ## 📌 How to Use
 
 ```bash
-git clone https://github.com/55HOSTRY55/zero-grad.git
-cd zero-grad/Python_Projects
+git clone https://github.com/55HOSTRY55/Zero-Grad-Projects.git
+cd Zero-Grad-Projects/Python_Projects
 python project_name.py
 ```
 
