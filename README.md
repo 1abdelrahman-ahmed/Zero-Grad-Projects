@@ -9,10 +9,10 @@
 
 ```
 zero-grad/
-├── Python_Projects/       # Fundamental Python projects
-│   ├── Guessing_Game/     # [Complete]
-│   ├── Tic_Tac_Toe/       # [Complete] 
-│   └── Web_Scraper/       # [Complete]
+├── Python_Projects/              # Fundamental Python projects
+│   ├── Guessing_Game/            # [Complete]
+│   ├── Tic_Tac_Toe/              # [Complete] 
+│   └── Wuzzuf_Job_Scraper/       # [Complete]
 │
 └── (More sections coming soon!)
 ```
