@@ -47,7 +47,7 @@ The user selects one of the three difficulty levels:
 ## ▶️ How to Run
 
 ```bash
-python project_(1)_guessing_game.py
+python guessing_game.py
 ```
 
 No installation needed — just run it using Python 3.x.

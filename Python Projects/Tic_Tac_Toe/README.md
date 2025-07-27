@@ -36,7 +36,7 @@ This is a turn-based game where two players take turns marking a 3×3 grid with 
 ## ▶️ How to Run
 
 ```bash
-python project_(2)_tic_tac_toe.py
+python tic_tac_toe.py
 ```
 
 Make sure you're using Python 3.x — no external libraries required.
