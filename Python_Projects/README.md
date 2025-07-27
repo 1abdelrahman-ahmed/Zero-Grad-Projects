@@ -44,6 +44,10 @@ This repository contains a collection of Python projects ranging from beginner t
 
 ```
 Python_Projects/
+├── Guess_The_Word/
+│   ├── guess_the_word.py
+│   ├── guess_the_word.ipynb
+│   └── README.md
 ├── Guessing_Game/
 │   ├── guessing_game.py
 │   ├── guessing_game.ipynb
@@ -53,13 +57,9 @@ Python_Projects/
 │   ├── tic_tac_toe.ipynb
 │   └── README.md
 └── Wuzzuf_Job_Scraper/
-│   ├── main.py
-│   ├── scrape.py
-│   ├── wuzzuf_job_scraper.ipynb
-│   └── README.md
-└── Guess_The_Word/
-    ├── guess_the_word.py
-    ├── guess_the_word.ipynb
+    ├── main.py
+    ├── scrape.py
+    ├── wuzzuf_job_scraper.ipynb
     └── README.md
 ```
 
