@@ -46,13 +46,16 @@ This repository contains a collection of Python projects ranging from beginner t
 Python_Projects/
 ├── Guessing_Game/
 │   ├── guessing_game.py
+│   ├── guessing_game.ipynb
 │   └── README.md
 ├── Tic_Tac_Toe/
 │   ├── tic_tac_toe.py
+│   ├── tic_tac_toe.ipynb
 │   └── README.md
 └── Wuzzuf_Job_Scraper/
     ├── main.py
     ├── scrape.py
+    ├── wuzzuf_job_scraper.ipynb
     └── README.md
 ```
 
