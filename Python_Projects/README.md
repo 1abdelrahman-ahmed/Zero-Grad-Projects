@@ -53,9 +53,13 @@ Python_Projects/
 │   ├── tic_tac_toe.ipynb
 │   └── README.md
 └── Wuzzuf_Job_Scraper/
-    ├── main.py
-    ├── scrape.py
-    ├── wuzzuf_job_scraper.ipynb
+│   ├── main.py
+│   ├── scrape.py
+│   ├── wuzzuf_job_scraper.ipynb
+│   └── README.md
+└── Guess_The_Word/
+    ├── guess_the_word.py
+    ├── guess_the_word.ipynb
     └── README.md
 ```
 

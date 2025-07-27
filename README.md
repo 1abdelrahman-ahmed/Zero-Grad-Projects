@@ -12,7 +12,8 @@ Zero-Grad-Projects/
 ├── Python_Projects/              # Fundamental Python projects
 │   ├── Guessing_Game/            # [Complete]
 │   ├── Tic_Tac_Toe/              # [Complete] 
-│   └── Wuzzuf_Job_Scraper/       # [Complete]
+│   ├── Wuzzuf_Job_Scraper/       # [Complete]
+│   └── Guess_The_Word/           # [Complete]
 │
 └── (More sections coming soon!)
 ```
