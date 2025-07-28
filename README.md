@@ -13,6 +13,7 @@ Zero-Grad-Projects/
 │   ├── Guess_The_Word/           # [Complete]
 │   ├── Guessing_Game/            # [Complete] 
 │   ├── Tic_Tac_Toe/              # [Complete]
+│   ├── Weather_API/              # [Complete]
 │   └── Wuzzuf_Job_Scraper/       # [Complete]
 │
 └── (More sections coming soon!)

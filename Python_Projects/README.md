@@ -56,6 +56,10 @@ Python_Projects/
 │   ├── tic_tac_toe.py
 │   ├── tic_tac_toe.ipynb
 │   └── README.md
+├── Weather_API/
+│   ├── weather_api.py
+│   ├── weather_api.ipynb
+│   └── README.md
 └── Wuzzuf_Job_Scraper/
     ├── main.py
     ├── scrape.py
