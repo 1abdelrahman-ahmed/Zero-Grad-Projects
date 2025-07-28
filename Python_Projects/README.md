@@ -60,10 +60,10 @@ Python_Projects/
 │   ├── weather_api.py
 │   ├── weather_api.ipynb
 │   └── README.md
-└── Wuzzuf_Job_Scraper/
+└── Wuzzuf_Web_Scraping/
     ├── main.py
     ├── scrape.py
-    ├── wuzzuf_job_scraper.ipynb
+    ├── wuzzuf_web_scraping.ipynb
     └── README.md
 ```
 

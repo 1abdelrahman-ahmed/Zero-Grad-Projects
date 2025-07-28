@@ -1,5 +1,4 @@
-
-# 🕸️ Wuzzuf Job Scraper
+# 🕸️ Wuzzuf Web Scraping
 
 A simple web scraping project that collects job postings from Wuzzuf.com based on selected topics such as Data Science, Machine Learning, and Artificial Intelligence.
 

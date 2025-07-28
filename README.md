@@ -14,7 +14,7 @@ Zero-Grad-Projects/
 │   ├── Guessing_Game/            # [Complete] 
 │   ├── Tic_Tac_Toe/              # [Complete]
 │   ├── Weather_API/              # [Complete]
-│   └── Wuzzuf_Job_Scraper/       # [Complete]
+│   └── Wuzzuf_Web_Scraping/       # [Complete]
 │
 └── (More sections coming soon!)
 ```
