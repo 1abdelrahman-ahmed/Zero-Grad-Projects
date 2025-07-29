@@ -8,12 +8,11 @@ This repository contains a collection of Python projects ranging from beginner t
 
 ### 1. 📚 Books Web Scraping
 
-- **Files**:
-
-  - `Books_Web_Scraping/app.py`
-  - `Books_Web_Scraping/books_web_scraping.py`
-- **Description**: Scrapes book data (title, price) from an online bookstore.
-- **How to Run**: `python Books_Web_Scraping/app.py`
+* **Files**:
+  * `Books_Web_Scraping/app.py`
+  * `Books_Web_Scraping/books_web_scraping.py`
+* **Description**: Scrapes book data (title, price) from an online bookstore.
+* **How to Run**: `python Books_Web_Scraping/app.py`
 
 ### 2. 🔤 Guess The Word
 
@@ -42,7 +41,6 @@ This repository contains a collection of Python projects ranging from beginner t
 ### 6. 🕸️ Wuzzuf Job Scraper
 
 * **Files**:
-
   * `Wuzzuf_Web_Scraping/main.py` (Main application)
   * `Wuzzuf_Web_Scraping/scrape.py` (Scraping logic)
 * **Description**: A simple web scraper for job listings from Wuzzuf.
