@@ -8,12 +8,12 @@ This repository contains a collection of Python projects ranging from beginner t
 
 ### 1. 📚 Books Web Scraping
 
-* **Files**:
+- **Files**:
 
-  * `Books_Web_Scraping/app.py`
-  * `Books_Web_Scraping/books_web_scraping.py`
-* **Description**: Scrapes book data (title, price) from an online bookstore.
-* **How to Run**: `python Books_Web_Scraping/app.py`
+  - `Books_Web_Scraping/app.py`
+  - `Books_Web_Scraping/books_web_scraping.py`
+- **Description**: Scrapes book data (title, price) from an online bookstore.
+- **How to Run**: `python Books_Web_Scraping/app.py`
 
 ### 2. 🔤 Guess The Word
 
