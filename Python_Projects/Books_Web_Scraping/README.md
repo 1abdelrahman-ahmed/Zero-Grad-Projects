@@ -1,6 +1,3 @@
-Here's a well-structured README.md file for your Books Scraping App following the same format as your previous examples:
-
-```markdown
 # 📚 Books Scraping App
 
 A Streamlit web application that scrapes and displays book data from books.toscrape.com by category.
