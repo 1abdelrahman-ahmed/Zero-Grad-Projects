@@ -11,7 +11,7 @@ This repository contains a collection of Python projects ranging from beginner t
 * **Files**:
   * `Books_Web_Scraping/app.py`
   * `Books_Web_Scraping/books_web_scraping.py`
-* **Description**: A Streamlit web application that scrapes book data from books.toscrape.com by category.
+* **Description**: A Streamlit web application that scrapes book data by category.
 * **How to Run**: `python Books_Web_Scraping/app.py`
 
 ### 2. 🔤 Guess The Word
