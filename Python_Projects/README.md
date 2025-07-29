@@ -6,22 +6,47 @@ This repository contains a collection of Python projects ranging from beginner t
 
 ## 🗂 Projects List
 
-### 1. 🎮 Guessing Game
-- **File**: `Guessing_Game/guessing_game.py`
-- **Description**: A number guessing game with multiple difficulty levels.
-- **How to Run**: `python Guessing_Game/guessing_game.py`
+### 1. 📚 Books Web Scraping
 
-### 2. ❌⭕ Tic Tac Toe
-- **File**: `Tic_Tac_Toe/tic_tac_toe.py`
-- **Description**: Classic Tic Tac Toe game for two players.
-- **How to Run**: `python Tic_Tac_Toe/tic_tac_toe.py`
+* **Files**:
 
-### 3. 🕸️ Wuzzuf Job Scraper
-- **Files**: 
-  - `Wuzzuf_Job_Scraper/main.py` (Main application)
-  - `Wuzzuf_Job_Scraper/scrape.py` (Scraping functions)
-- **Description**: A simple web scraping utility.
-- **How to Run**: `python Wuzzuf_Job_Scraper/main.py`
+  * `Books_Web_Scraping/app.py`
+  * `Books_Web_Scraping/books_web_scraping.py`
+* **Description**: Scrapes book data (title, price) from an online bookstore.
+* **How to Run**: `python Books_Web_Scraping/app.py`
+
+### 2. 🔤 Guess The Word
+
+* **File**: `Guess_The_Word/guess_the_word.py`
+* **Description**: A simple word guessing game based on random topics.
+* **How to Run**: `python Guess_The_Word/guess_the_word.py`
+
+### 3. 🎮 Guessing Game
+
+* **File**: `Guessing_Game/guessing_game.py`
+* **Description**: A number guessing game with multiple difficulty levels.
+* **How to Run**: `python Guessing_Game/guessing_game.py`
+
+### 4. ❌⭕ Tic Tac Toe
+
+* **File**: `Tic_Tac_Toe/tic_tac_toe.py`
+* **Description**: Classic Tic Tac Toe game for two players.
+* **How to Run**: `python Tic_Tac_Toe/tic_tac_toe.py`
+
+### 5. 🌦️ Weather API
+
+* **File**: `Weather_API/weather_api.py`
+* **Description**: Fetches and displays weather data using an external API.
+* **How to Run**: `python Weather_API/weather_api.py`
+
+### 6. 🕸️ Wuzzuf Job Scraper
+
+* **Files**:
+
+  * `Wuzzuf_Web_Scraping/main.py` (Main application)
+  * `Wuzzuf_Web_Scraping/scrape.py` (Scraping logic)
+* **Description**: A simple web scraper for job listings from Wuzzuf.
+* **How to Run**: `python Wuzzuf_Web_Scraping/main.py`
 
 ---
 
@@ -44,6 +69,11 @@ This repository contains a collection of Python projects ranging from beginner t
 
 ```
 Python_Projects/
+├── Books_Web_Scraping/
+│   ├── app.py
+│   ├── books_web_scraping.py
+│   ├── books_web_scraping.ipynb
+│   └── README.md
 ├── Guess_The_Word/
 │   ├── guess_the_word.py
 │   ├── guess_the_word.ipynb

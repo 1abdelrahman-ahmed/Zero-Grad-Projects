@@ -1,4 +1,4 @@
-# 📚 Books Scraping App
+# 📚 Books Web Scraping
 
 A Streamlit web application that scrapes and displays book data from books.toscrape.com by category.
 

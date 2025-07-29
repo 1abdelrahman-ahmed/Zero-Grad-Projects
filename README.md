@@ -10,11 +10,12 @@
 ```
 Zero-Grad-Projects/
 ├── Python_Projects/              # Fundamental Python projects
+│   ├── Books_Web_Scraping/       # [Complete]
 │   ├── Guess_The_Word/           # [Complete]
 │   ├── Guessing_Game/            # [Complete] 
 │   ├── Tic_Tac_Toe/              # [Complete]
 │   ├── Weather_API/              # [Complete]
-│   └── Wuzzuf_Web_Scraping/       # [Complete]
+│   └── Wuzzuf_Web_Scraping/      # [Complete]
 │
 └── (More sections coming soon!)
 ```
