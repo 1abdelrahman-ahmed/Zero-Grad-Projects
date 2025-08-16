@@ -9,13 +9,17 @@
 
 ```
 Zero-Grad-Projects/
-├── Python_Projects/              # Fundamental Python projects
-│   ├── Books_Web_Scraping/       # [Complete]
-│   ├── Guess_The_Word/           # [Complete]
-│   ├── Guessing_Game/            # [Complete] 
-│   ├── Tic_Tac_Toe/              # [Complete]
-│   ├── Weather_API/              # [Complete]
-│   └── Wuzzuf_Web_Scraping/      # [Complete]
+├── Python_Projects/                  # Fundamental Python projects
+│   ├── Books_Web_Scraping/           # [Complete]
+│   ├── Guess_The_Word/               # [Complete]
+│   ├── Guessing_Game/                # [Complete] 
+│   ├── Tic_Tac_Toe/                  # [Complete]
+│   ├── Weather_API/                  # [Complete]
+│   └── Wuzzuf_Web_Scraping/          # [Complete]
+│
+├── Data_Analysis_Projects/           # Data analysis & EDA projects
+│   ├── Titanic_EDA/                  # [Complete]
+│   └── World_Happiness_EDA/          # [Complete]
 │
 └── (More sections coming soon!)
 ```
@@ -38,6 +42,7 @@ This repository will gradually expand to include:
 
 Currently working with:
 - Python 3
+- pandas, matplotlib, seaborn
 - Basic libraries (random, sys, etc.)
 
 ---
@@ -46,8 +51,11 @@ Currently working with:
 
 ```bash
 git clone https://github.com/55HOSTRY55/Zero-Grad-Projects.git
-cd Zero-Grad-Projects/Python_Projects
-python project_name.py
+cd Zero-Grad-Projects
+# For Python scripts:
+python Python_Projects/project_name.py
+# For notebooks:
+Open .ipynb files in Google Colab or Jupyter Notebook
 ```
 
 ---
@@ -56,4 +64,4 @@ python project_name.py
 
 MIT License - Free to use and learn from
 
-*✨ Check back later for updates!*
+*✨ Check back
