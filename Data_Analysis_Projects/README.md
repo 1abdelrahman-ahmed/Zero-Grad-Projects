@@ -9,10 +9,10 @@ This repository contains a collection of Python data analysis projects, each foc
 ### 1. 🦠 Covid19 EDA
 
 - **Files**:
-  - `Covid19_EDA/Covid19_EDA.ipynb`
+  - `Covid19_EDA/covid19_eda.ipynb`
   - `Covid19_EDA/README.md`
 - **Description**: Exploratory data analysis of COVID-19 data to visualize and understand pandemic trends.
-- **How to Run**: Open `Covid19_EDA.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
+- **How to Run**: Open `covid19_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
 ### 2. 🚢 Titanic EDA
 
@@ -59,7 +59,7 @@ No installation needed if using Google Colab.
 ```
 Data_Analysis_Projects/
 ├── Covid19_EDA/
-│   ├── Covid19_EDA.ipynb
+│   ├── covid19_eda.ipynb
 │   └── README.md
 ├── Titanic_EDA/
 │   ├── titanic_eda.ipynb

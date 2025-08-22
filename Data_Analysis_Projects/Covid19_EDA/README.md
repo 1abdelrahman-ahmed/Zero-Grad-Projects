@@ -32,7 +32,7 @@ Explore the COVID-19 dataset with Python and Colab to analyze global pandemic tr
 
 You can run the notebook in **Google Colab**, **Jupyter Notebook**, or any compatible Python environment.
 
-1. Open `Covid19_EDA.ipynb` in your preferred platform (Colab recommended).
+1. Open `covid19_eda.ipynb` in your preferred platform (Colab recommended).
 2. Make sure you have the required libraries: `pandas`, `matplotlib`, `seaborn`.
 
 No installation needed if using Colab — just upload the notebook and dataset.

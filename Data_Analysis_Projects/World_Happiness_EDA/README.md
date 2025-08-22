@@ -58,4 +58,4 @@ This project is open-source and free to use.
 
 ---
 
-Made with ❤️ for data
+Made with ❤️ for data science learning!
