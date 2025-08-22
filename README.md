@@ -1,7 +1,7 @@
 # 📂 Zero-Grad Learning Hub
 
 **🚀 My evolving coding journey repository**  
-*A growing collection of projects as I progress through different tech domains*
+_A growing collection of projects as I progress through different tech domains_
 
 ---
 
@@ -12,12 +12,13 @@ Zero-Grad-Projects/
 ├── Python_Projects/                  # Fundamental Python projects
 │   ├── Books_Web_Scraping/           # [Complete]
 │   ├── Guess_The_Word/               # [Complete]
-│   ├── Guessing_Game/                # [Complete] 
+│   ├── Guessing_Game/                # [Complete]
 │   ├── Tic_Tac_Toe/                  # [Complete]
 │   ├── Weather_API/                  # [Complete]
 │   └── Wuzzuf_Web_Scraping/          # [Complete]
 │
 ├── Data_Analysis_Projects/           # Data analysis & EDA projects
+│   ├── Covid19_EDA/                  # [Complete]
 │   ├── Titanic_EDA/                  # [Complete]
 │   └── World_Happiness_EDA/          # [Complete]
 │
@@ -29,18 +30,20 @@ Zero-Grad-Projects/
 ## 🌱 About This Repo
 
 This repository will gradually expand to include:
+
 - Data Science projects
-- Machine Learning implementations  
+- Machine Learning implementations
 - Deep Learning experiments
 - Other tech domains I explore
 
-*🔔 The structure will be updated as new content is added!*
+_🔔 The structure will be updated as new content is added!_
 
 ---
 
 ## 🛠️ Tech Stack
 
 Currently working with:
+
 - Python 3
 - pandas, matplotlib, seaborn
 - Basic libraries (random, sys, etc.)
@@ -64,4 +67,4 @@ Open .ipynb files in Google Colab or Jupyter Notebook
 
 MIT License - Free to use and learn from
 
-*✨ Check back
+\*✨ Check back

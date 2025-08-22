@@ -6,23 +6,31 @@ This repository contains a collection of Python data analysis projects, each foc
 
 ## 🗂 Projects List
 
-### 1. 🚢 Titanic EDA
+### 1. 🦠 Covid19 EDA
 
-* **Files**:
-  * `Titanic_EDA/titanic_eda.ipynb`
-  * `Titanic_EDA/titanic_data.csv`
-  * `Titanic_EDA/README.md`
-* **Description**: Exploratory data analysis of the Titanic dataset to uncover factors affecting passenger survival.
-* **How to Run**: Open `titanic_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
+- **Files**:
+  - `Covid19_EDA/Covid19_EDA.ipynb`
+  - `Covid19_EDA/README.md`
+- **Description**: Exploratory data analysis of COVID-19 data to visualize and understand pandemic trends.
+- **How to Run**: Open `Covid19_EDA.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
-### 2. 😊 World Happiness EDA
+### 2. 🚢 Titanic EDA
 
-* **Files**:
-  * `World_Happiness_EDA/world_happiness_eda.ipynb`
-  * `World_Happiness_EDA/world_happiness_2021.csv`
-  * `World_Happiness_EDA/README.md`
-* **Description**: Analysis of the World Happiness Report 2021 dataset to explore global happiness trends and key influencing factors.
-* **How to Run**: Open `world_happiness_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
+- **Files**:
+  - `Titanic_EDA/titanic_eda.ipynb`
+  - `Titanic_EDA/titanic_data.csv`
+  - `Titanic_EDA/README.md`
+- **Description**: Exploratory data analysis of the Titanic dataset to uncover factors affecting passenger survival.
+- **How to Run**: Open `titanic_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
+
+### 3. 😊 World Happiness EDA
+
+- **Files**:
+  - `World_Happiness_EDA/world_happiness_eda.ipynb`
+  - `World_Happiness_EDA/world-happiness-report-2021.csv`
+  - `World_Happiness_EDA/README.md`
+- **Description**: Analysis of the World Happiness Report 2021 dataset to explore global happiness trends and key influencing factors.
+- **How to Run**: Open `world_happiness_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
 ---
 
@@ -50,14 +58,17 @@ No installation needed if using Google Colab.
 
 ```
 Data_Analysis_Projects/
+├── Covid19_EDA/
+│   ├── Covid19_EDA.ipynb
+│   └── README.md
 ├── Titanic_EDA/
 │   ├── titanic_eda.ipynb
 │   ├── titanic_data.csv
 │   └── README.md
 └── World_Happiness_EDA/
-    ├── world_happiness_eda.ipynb
-    ├── world_happiness_2021.csv
-    └── README.md
+  ├── world_happiness_eda.ipynb
+  ├── world-happiness-report-2021.csv
+  └── README.md
 ```
 
 ---
