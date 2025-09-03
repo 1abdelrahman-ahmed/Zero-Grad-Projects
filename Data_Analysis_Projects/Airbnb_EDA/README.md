@@ -18,19 +18,26 @@ Exploratory Data Analysis (EDA) of Airbnb listings in New York City for 2019. Th
 - Distance from city center
 - Data cleaning and feature engineering
 
-## 📝 How to Run
+---
 
-1. Open `airbnb_eda.ipynb` in Jupyter Notebook, Google Colab, or VS Code.
-2. Run all cells to reproduce the analysis and visualizations.
+## ▶️ How to Run
 
-## 📦 Requirements
+You can run the notebook in **Google Colab**, **Jupyter Notebook**, or any compatible Python environment.
 
-- Python 3.x
-- pandas, seaborn, matplotlib, plotly, geopy, opendatasets, ydata-profiling
+1. Open `airbnb_eda.ipynb` in your preferred platform.
+2. Make sure you have the required libraries: `pandas`, `seaborn`, `matplotlib`, `plotly`, `geopy`, `opendatasets`, `ydata-profiling`
 
-## 📈 Conclusion
+No installation needed if using Colab — just upload the notebook and dataset.
 
-Location and room type are the main drivers of price and popularity in NYC’s Airbnb market. See the notebook for full insights.
+---
+
+## 🛠️ Built With
+
+- Python 3
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
 
 ---
 

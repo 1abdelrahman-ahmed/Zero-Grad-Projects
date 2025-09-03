@@ -1,30 +1,22 @@
-# 🦠 Covid19_EDA
+# 🦠 COVID-19 EDA
 
-Explore the COVID-19 dataset with Python and Colab to analyze global pandemic trends and insights.
-
----
-
-## 📋 Project Description
-
-### 🔹 First: Data Loading
-
-- Load COVID-19 dataset using Pandas
-- Inspect columns and data types
+Exploratory Data Analysis (EDA) of the WHO COVID-19 global data. This notebook analyzes pandemic trends, including case numbers, deaths, and regional patterns across different countries and time periods.
 
 ---
 
-### 🔹 Second: Data Cleaning
+## 📊 Project Overview
 
-- Handle missing values
-- Remove duplicates and irrelevant columns
+- **Dataset:** WHO COVID-19 Global Data
+- **Source:** [WHO COVID-19 Dashboard](https://data.who.int/dashboards/covid19/data)
+- **Main Notebook:** `covid19_eda.ipynb`
 
----
+## 🔍 Key Analyses
 
-### 🔹 Third: Exploratory Analysis
-
-- Visualize cases, deaths, and recoveries by country and region
+- Global and regional case/death trends
 - Time series analysis of pandemic spread
-- Correlation between features
+- Regional comparisons and patterns
+- Data cleaning and date-based analysis
+- WHO region-specific insights
 
 ---
 
@@ -32,7 +24,7 @@ Explore the COVID-19 dataset with Python and Colab to analyze global pandemic tr
 
 You can run the notebook in **Google Colab**, **Jupyter Notebook**, or any compatible Python environment.
 
-1. Open `covid19_eda.ipynb` in your preferred platform (Colab recommended).
+1. Open `covid19_eda.ipynb` in your preferred platform.
 2. Make sure you have the required libraries: `pandas`, `matplotlib`, `seaborn`.
 
 No installation needed if using Colab — just upload the notebook and dataset.

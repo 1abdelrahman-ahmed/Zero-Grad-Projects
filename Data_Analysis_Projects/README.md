@@ -60,7 +60,7 @@ This repository contains a collection of Python data analysis projects, each foc
 - geopy
 - opendatasets
 - ydata-profiling
-- (optional) opendatasets for World Happiness EDA
+- (optional to automatic downlaod the data) opendatasets
 
 No installation needed if using Google Colab.
 

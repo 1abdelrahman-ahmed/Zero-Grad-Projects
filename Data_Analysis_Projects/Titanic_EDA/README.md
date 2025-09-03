@@ -1,34 +1,23 @@
-# 🚢 Titanic EDA Project
+# 🚢 Titanic EDA
 
-Explore the Titanic dataset with Python and Jupyter Notebook to uncover insights about passenger survival.
-
----
-
-## 📋 Project Description
-
-### 🔹 First: Data Loading
-
-- Load the Titanic dataset (`titanic_data.csv`) using Pandas
-- Inspect columns and data types
+Exploratory Data Analysis (EDA) of the Titanic dataset. This notebook investigates the factors that influenced passenger survival, including class, gender, age, and other demographic characteristics.
 
 ---
 
-### 🔹 Second: Data Cleaning
+## 📊 Project Overview
 
-- Handle missing values (e.g., Age, Cabin)
-- Convert categorical columns to appropriate types
-- Remove or impute outliers
+- **Dataset:** Titanic passenger data
+- **Source:** [Kaggle - Titanic Competition](https://www.kaggle.com/competitions/titanic/data)
+- **Main Notebook:** `titanic_eda.ipynb`
+- **Data File:** `titanic_data.csv`
 
----
+## 🔍 Key Analyses
 
-### 🔹 Third: Exploratory Analysis
-
-- Visualize survival rates by:
-  - Gender 👩‍🦰👨‍🦱
-  - Passenger class 🛳️
-  - Age groups 👶🧓
-- Plot distributions and correlations
-- Discover key factors affecting survival
+- Survival rates by passenger class and gender
+- Age distribution analysis
+- Family size impact on survival
+- Fare and port of embarkation patterns
+- Missing data handling and feature engineering
 
 ---
 
@@ -36,7 +25,7 @@ Explore the Titanic dataset with Python and Jupyter Notebook to uncover insights
 
 You can run the notebook in **Google Colab**, **Jupyter Notebook**, or any compatible Python environment.
 
-1. Open `titanic_eda.ipynb` in your preferred platform (Colab recommended).
+1. Open `titanic_eda.ipynb` in your preferred platform.
 2. Make sure you have the required libraries: `pandas`, `matplotlib`, `seaborn`.
 
 No installation needed if using Colab — just upload the notebook and dataset.

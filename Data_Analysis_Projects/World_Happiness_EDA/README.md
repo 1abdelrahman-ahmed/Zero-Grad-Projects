@@ -1,32 +1,23 @@
 # 😊 World Happiness EDA
 
-Explore the World Happiness Report 2021 dataset with Python and Colab to uncover what drives happiness across countries and regions.
+Exploratory Data Analysis (EDA) of the World Happiness Report 2021. This notebook explores how social, economic, and health factors relate to happiness scores across different countries and regions worldwide.
 
 ---
 
-## 📋 Project Description
+## 📊 Project Overview
 
-### 🔹 First: Data Loading
+- **Dataset:** World Happiness Report 2021 (149 countries, 20 metrics)
+- **Source:** [Kaggle - World Happiness Report 2021](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
+- **Main Notebook:** `world_happiness_eda.ipynb`
+- **Data File:** `world-happiness-report-2021.csv`
 
-- Download the dataset from Kaggle using `opendatasets` or load it
-- Load and inspect data with Pandas
+## 🔍 Key Analyses
 
----
-
-### 🔹 Second: Data Cleaning
-
-- Handle missing and duplicate values
-- Drop unnecessary columns
-- Rename columns for clarity
-
----
-
-### 🔹 Third: Exploratory Analysis
-
-- Univariate analysis: distributions & boxplots for key features
-- Bivariate analysis: scatter plots and correlation heatmaps
-- Regional comparisons: average scores and distributions by region
-- Top/bottom countries by happiness, GDP, social support, etc.
+- Happiness score distributions and regional patterns
+- Impact of economic indicators (GDP per capita)
+- Social factors (support, freedom, generosity)
+- Health and life expectancy correlations
+- Corruption perceptions and their effects
 
 ---
 
@@ -34,7 +25,7 @@ Explore the World Happiness Report 2021 dataset with Python and Colab to uncover
 
 You can run the notebook in **Google Colab**, **Jupyter Notebook**, or any compatible Python environment.
 
-1. Open `world_happiness_eda.ipynb` in your preferred platform (Colab recommended).
+1. Open `world_happiness_eda.ipynb` in your preferred platform.
 2. Make sure you have the required libraries: `pandas`, `matplotlib`, `seaborn`, `opendatasets`.
 
 No installation needed if using Colab — just upload the notebook and dataset.
