@@ -6,7 +6,15 @@ This repository contains a collection of Python data analysis projects, each foc
 
 ## 🗂 Projects List
 
-### 1. 🦠 Covid19 EDA
+### 1. 🏠 Airbnb NYC EDA
+
+- **Files**:
+  - `Airbnb_EDA/airbnb_eda.ipynb`
+  - `Airbnb_EDA/README.md`
+- **Description**: Exploratory data analysis of Airbnb listings in New York City for 2019, uncovering trends in price, location, room type, and more.
+- **How to Run**: Open `airbnb_eda.ipynb` in Google Colab, Jupyter Notebook, أو VS Code.
+
+### 2. 🦠 Covid19 EDA
 
 - **Files**:
   - `Covid19_EDA/covid19_eda.ipynb`
@@ -14,7 +22,7 @@ This repository contains a collection of Python data analysis projects, each foc
 - **Description**: Exploratory data analysis of COVID-19 data to visualize and understand pandemic trends.
 - **How to Run**: Open `covid19_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
-### 2. 🚢 Titanic EDA
+### 3. 🚢 Titanic EDA
 
 - **Files**:
   - `Titanic_EDA/titanic_eda.ipynb`
@@ -23,7 +31,7 @@ This repository contains a collection of Python data analysis projects, each foc
 - **Description**: Exploratory data analysis of the Titanic dataset to uncover factors affecting passenger survival.
 - **How to Run**: Open `titanic_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
-### 3. 😊 World Happiness EDA
+### 4. 😊 World Happiness EDA
 
 - **Files**:
   - `World_Happiness_EDA/world_happiness_eda.ipynb`
@@ -48,6 +56,10 @@ This repository contains a collection of Python data analysis projects, each foc
 - pandas
 - matplotlib
 - seaborn
+- plotly
+- geopy
+- opendatasets
+- ydata-profiling
 - (optional) opendatasets for World Happiness EDA
 
 No installation needed if using Google Colab.
@@ -58,6 +70,9 @@ No installation needed if using Google Colab.
 
 ```
 Data_Analysis_Projects/
+├── Airbnb_EDA/
+│   ├── airbnb_eda.ipynb
+│   └── README.md
 ├── Covid19_EDA/
 │   ├── covid19_eda.ipynb
 │   └── README.md

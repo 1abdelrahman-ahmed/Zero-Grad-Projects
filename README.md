@@ -18,6 +18,7 @@ Zero-Grad-Projects/
 │   └── Wuzzuf_Web_Scraping/          # [Complete]
 │
 ├── Data_Analysis_Projects/           # Data analysis & EDA projects
+│   ├── Airbnb_EDA/                   # [Complete]
 │   ├── Covid19_EDA/                  # [Complete]
 │   ├── Titanic_EDA/                  # [Complete]
 │   └── World_Happiness_EDA/          # [Complete]
@@ -45,7 +46,7 @@ _🔔 The structure will be updated as new content is added!_
 Currently working with:
 
 - Python 3
-- pandas, matplotlib, seaborn
+- pandas, matplotlib, seaborn, plotly, geopy, opendatasets, ydata-profiling
 - Basic libraries (random, sys, etc.)
 
 ---
@@ -58,7 +59,7 @@ cd Zero-Grad-Projects
 # For Python scripts:
 python Python_Projects/project_name.py
 # For notebooks:
-Open .ipynb files in Google Colab or Jupyter Notebook
+Open .ipynb files in Google Colab, Jupyter Notebook, or VS Code
 ```
 
 ---
