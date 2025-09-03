@@ -12,7 +12,7 @@ This repository contains a collection of Python data analysis projects, each foc
   - `Airbnb_EDA/airbnb_eda.ipynb`
   - `Airbnb_EDA/README.md`
 - **Description**: Exploratory data analysis of Airbnb listings in New York City for 2019, uncovering trends in price, location, room type, and more.
-- **How to Run**: Open `airbnb_eda.ipynb` in Google Colab, Jupyter Notebook, or VS Code.
+- **How to Run**: Open `airbnb_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
 ### 2. 🦠 Covid19 EDA
 
