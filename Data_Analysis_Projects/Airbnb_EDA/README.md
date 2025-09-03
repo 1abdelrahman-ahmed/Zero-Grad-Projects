@@ -36,4 +36,8 @@ Location and room type are the main drivers of price and popularity in NYC’s A
 
 ## 📄 License
 
-MIT License - Free to use and learn from
+This project is open-source and free to use.
+
+---
+
+Made with ❤️ for data science learning!
