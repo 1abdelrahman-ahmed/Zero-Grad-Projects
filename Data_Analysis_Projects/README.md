@@ -14,7 +14,15 @@ This repository contains a collection of Python data analysis projects, each foc
 - **Description**: Exploratory data analysis of Airbnb listings in New York City for 2019, uncovering trends in price, location, room type, and more.
 - **How to Run**: Open `airbnb_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
-### 2. 🦠 Covid19 EDA
+### 2. ✈️ Airline Passenger Satisfaction EDA
+
+- **Files**:
+  - `Airline_Passenger_Satisfaction_EDA/Airline_Passenger_Satisfaction_EDA.ipynb`
+  - `Airline_Passenger_Satisfaction_EDA/README.md`
+- **Description**: Exploratory analysis of airline passenger survey data to identify key factors affecting satisfaction.
+- **How to Run**: Open `Airline_Passenger_Satisfaction_EDA.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
+
+### 3. 🦠 Covid19 EDA
 
 - **Files**:
   - `Covid19_EDA/covid19_eda.ipynb`
@@ -22,7 +30,7 @@ This repository contains a collection of Python data analysis projects, each foc
 - **Description**: Exploratory data analysis of COVID-19 data to visualize and understand pandemic trends.
 - **How to Run**: Open `covid19_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
-### 3. 🚢 Titanic EDA
+### 4. 🚢 Titanic EDA
 
 - **Files**:
   - `Titanic_EDA/titanic_eda.ipynb`
@@ -31,7 +39,7 @@ This repository contains a collection of Python data analysis projects, each foc
 - **Description**: Exploratory data analysis of the Titanic dataset to uncover factors affecting passenger survival.
 - **How to Run**: Open `titanic_eda.ipynb` in Google Colab, Jupyter Notebook, or any compatible environment.
 
-### 4. 😊 World Happiness EDA
+### 5. 😊 World Happiness EDA
 
 - **Files**:
   - `World_Happiness_EDA/world_happiness_eda.ipynb`
@@ -73,6 +81,9 @@ Data_Analysis_Projects/
 ├── Airbnb_EDA/
 │   ├── airbnb_eda.ipynb
 │   └── README.md
+├── Airline_Passenger_Satisfaction_EDA/
+│   ├── Airline_Passenger_Satisfaction_EDA.ipynb
+│   └── README.md
 ├── Covid19_EDA/
 │   ├── covid19_eda.ipynb
 │   └── README.md
@@ -90,4 +101,8 @@ Data_Analysis_Projects/
 
 ## 📄 License
 
-All projects in this repository are open-source and free to use. See individual project READMEs for specific
+All projects in this repository are open-source and free to use. See individual project READMEs for specific licensing information.
+
+---
+
+Made with ❤️ for data science learning!

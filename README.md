@@ -9,19 +9,20 @@ _A growing collection of projects as I progress through different tech domains_
 
 ```
 Zero-Grad-Projects/
-├── Python_Projects/                  # Fundamental Python projects
-│   ├── Books_Web_Scraping/           # [Complete]
-│   ├── Guess_The_Word/               # [Complete]
-│   ├── Guessing_Game/                # [Complete]
-│   ├── Tic_Tac_Toe/                  # [Complete]
-│   ├── Weather_API/                  # [Complete]
-│   └── Wuzzuf_Web_Scraping/          # [Complete]
+├── Python_Projects/                         # Fundamental Python projects
+│   ├── Books_Web_Scraping/                  # [Complete]
+│   ├── Guess_The_Word/                      # [Complete]
+│   ├── Guessing_Game/                       # [Complete]
+│   ├── Tic_Tac_Toe/                         # [Complete]
+│   ├── Weather_API/                         # [Complete]
+│   └── Wuzzuf_Web_Scraping/                 # [Complete]
 │
-├── Data_Analysis_Projects/           # Data analysis & EDA projects
-│   ├── Airbnb_EDA/                   # [Complete]
-│   ├── Covid19_EDA/                  # [Complete]
-│   ├── Titanic_EDA/                  # [Complete]
-│   └── World_Happiness_EDA/          # [Complete]
+├── Data_Analysis_Projects/                  # Data analysis & EDA projects
+│   ├── Airbnb_EDA/                          # [Complete]
+│   ├── Airline_Passenger_Satisfaction_EDA/  # [Complete]
+│   ├── Covid19_EDA/                         # [Complete]
+│   ├── Titanic_EDA/                         # [Complete]
+│   └── World_Happiness_EDA/                 # [Complete]
 │
 └── (More sections coming soon!)
 ```
